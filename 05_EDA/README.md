@@ -95,8 +95,7 @@ Used:
 ---
 
 ## 🔜 Next Module
-➡️ **Feature Engineering & Machine Learning**  
-Focus on transforming insights into features and building predictive models.
+➡️ **Hypothesis Testing**
 
 ---
 
